@@ -1,0 +1,131 @@
+
+#kafedra {
+    position: relative;
+    padding-left: 35%;
+
+}
+#copy {
+    position: relative;
+    padding-top: 2.5%;
+    padding-left: 47%;
+    font-size: 15px;
+}
+#copy2 {
+    position: relative;
+    padding-top: 500px;
+    font-size: 15px;
+    padding-left: 47%;
+}
+#table_pos{
+    position: relative;
+    padding-left: 35%;
+    padding-top: 1%;
+}
+table, th, td {
+    font-size: 20px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.vertical-text{
+    writing-mode:vertical-lr;
+    text-align: center;
+    transform: rotate(180deg);
+    padding-right: 7px;
+    padding-left: 7px;
+}
+.Data{
+    padding-bottom: 22px;
+    padding-left: 225px;
+    padding-right: 225px;
+}
+.Data2{
+    padding-bottom: 22px;
+}
+.Data3{
+    padding-bottom: 20px;
+}
+.Time{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#baza {
+    position: relative;
+    padding-left: 41%;
+}
+#baza1 {
+    position: relative;
+    padding-left: 41%;
+}
+#baza2 {
+    position: relative;
+    top: -10px;
+    padding-left: 41%;
+}
+#baza3 {
+    position: relative;
+    top: -10px;
+    padding-left: 41%;
+}
+#baza4 {
+    position: relative;
+    top: -10px;
+    padding-left: 41%;
+}
+#baza5 {
+    position: relative;
+    top: -10px;
+    padding-left: 41%;
+}
+#baza6 {
+    position: relative;
+    top: -10px;
+    padding-left: 41%;
+}
+#bazatheme {
+    position: relative;
+    top: -10px;
+    font-size: 18px;
+    padding-left: 41%;
+}
+#bazatheme2 {
+    position: relative;
+    top: -20px;
+    font-size: 18px;
+    padding-left: 41%;
+}
+#bazatheme3 {
+    position: relative;
+    top: -20px;
+    font-size: 18px;
+    padding-left: 41%;
+}
+#bazatheme4 {
+    position: relative;
+    top: -20px;
+    font-size: 18px;
+    padding-left: 41%;
+}
+#bazatheme5 {
+    position: relative;
+    top: -20px;
+    font-size: 18px;
+    padding-left: 41%;
+}
+#bazatheme6 {
+    position: relative;
+    top: -20px;
+    font-size: 18px;
+    padding-left: 41%;
+}
+ol {
+    position: relative;
+    padding-right: 27%;
+    list-style-position: inside;
+}
+li {
+    text-align: left;
+  }
+.lin{
+    border-top: 1px solid #000;
+    padding-top: 10px;
+}
